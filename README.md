@@ -20,7 +20,7 @@ This dashboard focuses on profitability metrics:
 - **Net Income by Year**: Uses a donut chart to show annual net income distribution, offering insights into income growth or decline over the years.
 
 ### Liquidity and Cash Flow Dashboard
-![Liquidity and Cash Flow Dashboard](URL_TO_LIQUIDITY_AND_CASH_FLOW_IMAGE)
+![Liquidity and Cash Flow Dashboard](https://github.com/Bkandikonda95/PowerBI-Financial-Analysis./blob/656f983dffce07ecc629d86bbb75cb94bb8fe28f/Liquidity%20and%20Cash%20Flow%20Dashboard.png)
 
 The Liquidity and Cash Flow Dashboard assesses cash flow health:
 - **Operating Cash Flow Ratio by Quarter**: Evaluates how effectively cash is generated relative to liabilities over time.
