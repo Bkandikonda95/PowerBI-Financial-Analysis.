@@ -5,7 +5,7 @@ This repository contains a Power BI dashboard designed to provide insights into 
 ## Dashboard Previews
 
 ### Executive Summary Dashboard
-![Executive Summary Dashboard](Executive Summary Dashboard.png)
+![Executive Summary Dashboard](URL_TO_EXECUTIVE_SUMMARY_IMAGE)
 
 Provides a high-level overview with key metrics:
 - **Total Revenue**: Displays the total revenue figure.
@@ -13,7 +13,7 @@ Provides a high-level overview with key metrics:
 - **Profit Margin**: Provides a quick glance at profitability trends across quarters.
 
 ### Profitability Analysis Dashboard
-![Profitability Analysis Dashboard](Profitability Analysis Dashboard.png)
+![Profitability Analysis Dashboard](URL_TO_PROFITABILITY_ANALYSIS_IMAGE)
 
 This dashboard focuses on profitability metrics:
 - **Profit Margin by Quarter**: Tracks profitability trends by quarter, helping identify peak and low profitability periods.
