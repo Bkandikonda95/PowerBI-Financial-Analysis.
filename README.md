@@ -27,7 +27,7 @@ The Liquidity and Cash Flow Dashboard assesses cash flow health:
 - **Stacked Column Chart for Cash Flow Analysis**: Displays cash inflows and outflows categorized by operating, investing, and financing activities, providing a comprehensive view of cash flow components.
 
 ### Assets and Liabilities Overview
-![Assets and Liabilities Overview](URL_TO_ASSETS_AND_LIABILITIES_IMAGE)
+![Assets and Liabilities Overview](https://github.com/Bkandikonda95/PowerBI-Financial-Analysis./blob/577c8603ab5480d5674672ae34607aa609cd26e7/Assets%20and%20Liabilities%20Overview.png)
 
 Offers insights into asset and liability management:
 - **Total Assets vs. Total Liabilities**: Visual comparison to assess financial stability.
