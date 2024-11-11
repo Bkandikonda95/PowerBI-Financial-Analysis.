@@ -13,7 +13,7 @@ Provides a high-level overview with key metrics:
 - **Profit Margin**: Provides a quick glance at profitability trends across quarters.
 
 ### Profitability Analysis Dashboard
-![Profitability Analysis Dashboard](URL_TO_PROFITABILITY_ANALYSIS_IMAGE)
+![Profitability Analysis Dashboard](Profitability Analysis Dashboard.png)
 
 This dashboard focuses on profitability metrics:
 - **Profit Margin by Quarter**: Tracks profitability trends by quarter, helping identify peak and low profitability periods.
