@@ -5,7 +5,7 @@ This repository contains a Power BI dashboard designed to provide insights into 
 ## Dashboard Previews
 
 ### Executive Summary Dashboard
-![Executive Summary Dashboard]()
+![Executive Summary Dashboard](Executive Summary Dashboard.png)
 
 Provides a high-level overview with key metrics:
 - **Total Revenue**: Displays the total revenue figure.
